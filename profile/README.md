@@ -6,6 +6,8 @@ Shigure stack is a framework for building complex UIs fast and safe.
 
 ## How it works
 
+### Asynchronous UI
+
 ## Contribution
 
 ## Status
