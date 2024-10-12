@@ -2,7 +2,7 @@
 
 ## About
 
-Shigure stack is a framework for building complex UIs fast and safe.
+Shigure stack is a framework for building UIs fast and safe.
 
 ## How it works
 
