@@ -1,15 +1,9 @@
-# ☔ Shigure stack 🎨
+![ShigureStack](https://raw.githubusercontent.com/ShigureStack/.github/refs/heads/main/profile/Source.png)
 
-## About
+<p align="center">
+Shigure Stack is a framework for building UIs fast and safe.
+</p>
 
-Shigure stack is a framework for building UIs fast and safe.
+## 🚧 Work in progress
 
-## How it works
-
-### Asynchronous UI
-
-## Contribution
-
-## Status
-
-Shigure stack is currently work in progress. Most of our products are still not working well.
+Currently, we're working hard on [Shigure](https://github.com/ShigureStack/Shigure): a programming language with HTML-like syntax for building user interface safe.
